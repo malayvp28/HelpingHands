@@ -16,21 +16,24 @@ User Account Management: The application supports user account management, allow
 
 The Helping Hands project utilizes the following technologies and tools:
 
-Android Studio: The integrated development environment (IDE) for building the Android application.
-Cloud Firebase: A flexible and scalable NoSQL cloud database provided by Google, used to store and manage user data.
-Google Maps API Platform: Integration of Google Maps API for location-based features and services.
-Java: The primary programming language used for developing the Android application.
-XML: The markup language for designing the application's user interface.
+- Android Studio: The integrated development environment (IDE) for building the Android application.
+- Cloud Firebase: A flexible and scalable NoSQL cloud database provided by Google, used to store and manage user data.
+- Google Maps API Platform: Integration of Google Maps API for location-based features and services.
+- Java: The primary programming language used for developing the Android application.
+- XML: The markup language for designing the application's user interface.
 
 ## Use Case Diagram
-
+<p>
 <img src="Asset\Use-case-diagram.png" alt="Alt text" title="Optional title">
+
 ## Activity Diagram
 
-Start SOS Activity Diagram
+- Start SOS Activity Diagram
+ <p>
 <img src="Asset\start-sos-diagram.png" alt="Alt text" title="Optional title">
 
-Broadcast Emergency Request Activity Diagram
+- Broadcast Emergency Request Activity Diagram
+   <p>
 <img src="Asset\broadcast-sos-alert.png" alt="Alt text" title="Optional title">
 
 ## Limitations and Future Extensions
